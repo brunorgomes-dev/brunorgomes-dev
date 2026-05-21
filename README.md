@@ -39,15 +39,10 @@ Desenvolvedor Fullstack com mais de 6 anos de experiência prática, especializa
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Linguagens Mais Usadas
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunorgomes-dev&theme=dark" alt="GitHub Streak Stats" height="180em" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunorgomes-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorgomes-dev&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorgomes-dev&layout=compact&langs_count=7&theme=dark&hide_border=false" alt="Linguagens mais usadas por brunorgomes-dev" height="180em" />
 </p>
 
 ---
