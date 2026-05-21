@@ -42,8 +42,8 @@ Desenvolvedor Fullstack com mais de 6 anos de experiência prática, especializa
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER_DO_GITHUB&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_DO_GITHUB&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunorgomes-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorgomes-dev&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" height="180em" />
 </p>
 
 ---
