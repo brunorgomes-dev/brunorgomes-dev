@@ -28,7 +28,7 @@ Desenvolvedor Fullstack com mais de 6 anos de experiência prática, especializa
 
 ## 📂 Principais Projetos
 
-### 🔹 AtlantiSys
+### 🔹 AtlanticSys
 **Plataforma SaaS de Gestão Empresarial** Desenvolvimento de uma solução multiempresa robusta voltada para a automação e organização de processos corporativos. Reúne módulos complexos de CRM, faturamento, controle de despesas, estoque, relatórios gerenciais, além de gestão rígida de permissões e auditoria de ações.
 
 ### 🔹 Automação Comercial & PDV
@@ -36,14 +36,6 @@ Desenvolvedor Fullstack com mais de 6 anos de experiência prática, especializa
 
 ### 🔹 LibraryController
 **Sistema de Locação de Biblioteca** Aplicação para gerenciamento de acervo, empréstimos e devoluções de livros com controle completo de usuários, utilizando C# e SQL Server.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorgomes-dev&layout=compact&langs_count=7&theme=dark&hide_border=false" alt="Linguagens mais usadas" height="180em" />
-</p>
 
 ---
 
